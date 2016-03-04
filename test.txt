@@ -1,3 +1,4 @@
 woo, a file
 with more content
 third line is third
+something else goes here on line four
